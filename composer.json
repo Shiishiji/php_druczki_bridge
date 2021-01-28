@@ -2,8 +2,6 @@
     "name": "shiishiji/php_druczki_bridge",
     "description": "Bridge for http://druczki.createit.pl/ project.",
     "type": "library",
-    "version": "1.0.0",
-    "stability": "stable",
 
     "require": {
       "php": ">=7.1"
@@ -12,8 +10,7 @@
       "phpunit/phpunit": "~7.1",
       "symfony/var-dumper": "^4.2",
       "phpspec/prophecy": "^1.9",
-      "rregeer/phpunit-coverage-check": "^0.3.1",
-      "friendsofphp/php-cs-fixer": "^2.17"
+      "rregeer/phpunit-coverage-check": "^0.3.1"
     },
 
     "autoload": {
