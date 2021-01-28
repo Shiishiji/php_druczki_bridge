@@ -2,6 +2,8 @@
     "name": "shiishiji/php_druczki_bridge",
     "description": "Bridge for http://druczki.createit.pl/ project.",
     "type": "library",
+    "version": "1.0.0",
+    "stability": "stable",
 
     "require": {
       "php": ">=7.1"
